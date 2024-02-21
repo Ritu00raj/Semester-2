@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int raj[5];
+    raj0] = 10;
+    raj[1] = 11;
+    raj[2] = 12;
+    raj[3] = 13;
+    raj[4] = 14;
+    cout << "Elements of the array:" <<endl;
+    cout << "Element 0: " << myArray[0] <<endl;
+    cout << "Element 1: " << myArray[1] <<endl;
+    cout << "Element 2: " << myArray[2] <<endl;
+    cout << "Element 3: " << myArray[3] <<endl;
+    cout << "Element 4: " << myArray[4] <<endl;
+    return 0;
+}
